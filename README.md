@@ -5,6 +5,9 @@ Based on our arxiv pre-print paper:
 https://arxiv.org/abs/2009.09809
 
 
+<a href="url"><img src="project_images/model_v4.pdf" align="center" height="550" width="500" ></a>
+<p></p>
+
 ## Install
 
 Create Conda environment
