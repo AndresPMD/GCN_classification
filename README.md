@@ -5,7 +5,7 @@ Based on our arxiv pre-print paper:
 https://arxiv.org/abs/2009.09809
 
 
-<a href="url"><img src="project_images/model_v4-1.png" align="center" height="400" width="700" ></a>
+<a href="url"><img src="project_images/model_v4-1.png" align="center" height="350" width="900" ></a>
 <p></p>
 
 ## Install
