@@ -1,0 +1,25 @@
+------- CONTEXT -------
+TRAIN:
+python train.py context --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --split 1
+
+TEST EVAL:
+python train.py context --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --split 1 --save_weights False --load ../best/context_fullGCN_bboxes_fasttext_google_ocr_concat_mean_split1/checkpoint_context.weights --test True
+
+EXTRACT FEATS:
+python train.py context --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --split 1 --save_weights False --load ../best/context_fullGCN_bboxes_fasttext_google_ocr_concat_mean_split1/checkpoint_context.weights --test True --save_img_feats True
+
+PERFORMANCE TEST:
+python performance.py context --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --load ../best/context_fullGCN_bboxes_fasttext_google_ocr_concat_mean_split1/checkpoint_context.weights
+
+------- DRINK BOTTLE -------
+TRAIN:
+python train.py bottles --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --split 2
+
+TEST EVAL:
+python train.py bottles --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --split 2 --save_weights False --load ../best/bottles_fullGCN_bboxes_fasttext_google_ocr_concat_mean_split2/checkpoint_bottles.weights --test True
+
+EXTRACT FEATS:
+python train.py bottles --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --split 2 --save_weights False --load ../best/bottles_fullGCN_bboxes_fasttext_google_ocr_concat_mean_split2/checkpoint_bottles.weights --test True --save_img_feats True
+
+PERFORMANCE TEST:
+python performance.py bottles --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat

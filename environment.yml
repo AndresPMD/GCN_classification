@@ -1,0 +1,14 @@
+name: fine_grained_clf
+channels:
+        - pytorch
+        - defaults
+dependencies:
+        - python=3.7
+        - numpy
+        - pytorch=0.4
+        - torchvision
+        - tensorflow
+        - tensorboard
+        - sklearn
+        - pip:
+                - tensorboardX
