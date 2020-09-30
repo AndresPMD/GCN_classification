@@ -4,9 +4,10 @@ Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classificati
 Based on our arxiv pre-print paper:
 https://arxiv.org/abs/2009.09809
 
-
-<a href="url"><img src="project_images/model_v4-1.png" align="center" height="350" width="900" ></a>
+<a href="url"><img src="project_images/Teaser1.png" align="center" height="350" width="350" ></a>
 <p></p>
+
+![alt text](project_images/Figure_2.png?raw=true "Model")
 
 ## Install
 
