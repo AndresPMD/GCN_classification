@@ -33,8 +33,12 @@ https://drive.google.com/open?id=1ss9Pxr7rsdCpYX7uKjd-_1R4qCpUYTWT
 Please download the following files and place them in the following dir structure:
 
 
-Visual Features Con-Text: https://drive.google.com/file/d/1stQGz0uH035uYTgXbjwGAfn-q2GzXSaM/view?usp=sharing
-BBOXES Features Con-Text: https://drive.google.com/file/d/107H-sTRGWAAi_2qOSlTAKEG8meuGTQti/view?usp=sharing
+Visual Features Con-Text: 
+https://drive.google.com/file/d/1stQGz0uH035uYTgXbjwGAfn-q2GzXSaM/view?usp=sharing
+
+BBOXES Features Con-Text: 
+https://drive.google.com/file/d/107H-sTRGWAAi_2qOSlTAKEG8meuGTQti/view?usp=sharing
+
 OCR Textual Features Con-Text: 
 OCR Textual Con-Text:
 
