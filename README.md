@@ -28,9 +28,22 @@ https://staff.fnwi.uva.nl/s.karaoglu/datasetWeb/Dataset.html
 Drink-Bottle dataset:
 https://drive.google.com/open?id=1ss9Pxr7rsdCpYX7uKjd-_1R4qCpUYTWT
 
-## Textual Features
+## Textual and Visual Features
 
-TBD
+Please download the following files and place them in the following dir structure:
+
+
+Visual Features Con-Text: https://drive.google.com/file/d/1stQGz0uH035uYTgXbjwGAfn-q2GzXSaM/view?usp=sharing
+BBOXES Features Con-Text: https://drive.google.com/file/d/107H-sTRGWAAi_2qOSlTAKEG8meuGTQti/view?usp=sharing
+OCR Textual Features Con-Text: 
+OCR Textual Con-Text:
+
+Visual Features Drink Bottle:
+BBOXES Features Drink Bottle:
+OCR Textual Features Drink Bottle:
+OCR Textual BBOXES preds:
+
+
 
 ## Train 
 
