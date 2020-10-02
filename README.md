@@ -43,6 +43,7 @@ https://drive.google.com/file/d/1SDR9NSlOvNJZsCgOaxYFoKkLALJiPKWs/view?usp=shari
 
 Please download the following files and place them in the following dir structure:
 
+**CONTEXT DATASET**
 
 Visual Features Con-Text: 
 https://drive.google.com/file/d/1stQGz0uH035uYTgXbjwGAfn-q2GzXSaM/view?usp=sharing
@@ -57,6 +58,7 @@ OCR Textual Con-Text:
 https://drive.google.com/file/d/1T5Ui3Xu2g5q9ajpwKmcA9R59KU-sg9EO/view?usp=sharing
 
 
+**DRINK BOTTLE DATASET**
 
 Visual Features Drink Bottle: 
 https://drive.google.com/file/d/1jpAOB1ICVby0YIQQyNfAL7do1RJq5_Xn/view?usp=sharing
