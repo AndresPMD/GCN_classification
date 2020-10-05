@@ -48,6 +48,9 @@ $PATH_TO_DATASETS$/Drink_Bottle/
 
 Refer to the path after the link to correctly place the file.
 
+The visual features were extracted by the Faster R-CNN proposed by in the paper Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering.
+
+For more details, please refer to our paper pre-print.
 
 **CONTEXT DATASET**
 
