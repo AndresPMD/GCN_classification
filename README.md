@@ -1,7 +1,7 @@
 # GCN_classification
 Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classification and Retrieval
 
-Based on our arxiv pre-print paper:
+Based on our WACV 2021 Accepted Paper:
 https://arxiv.org/abs/2009.09809
 
 <a href="url"><img src="project_images/Teaser1.png" align="center" height="350" width="350" ></a>
