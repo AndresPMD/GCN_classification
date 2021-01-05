@@ -133,6 +133,7 @@ Drink Bottle dataset
 
 If you found this code useful, please cite the following paper:
 
+```
 @inproceedings{mafla2020multi,
   title={Multi-modal reasoning graph for scene-text based fine-grained image classification and retrieval},
   author={Mafla, Andres and Dey, Sounak and Biten, Ali Furkan and Gomez, Lluis and Karatzas, Dimosthenis},
@@ -140,7 +141,7 @@ If you found this code useful, please cite the following paper:
   pages={4023--4033},
   year={2020}
 }
-
+```
 
 ## License
 
