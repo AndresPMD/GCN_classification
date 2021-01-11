@@ -127,6 +127,10 @@ Drink Bottle dataset
 
     $python train.py bottles --batch_size 64 --model fullGCN_bboxes --ocr google_ocr --embedding fasttext --max_textual 15 --max_visual 36 --projection_layer mean --fusion concat --data_path $Data_DIR --split 1
 
+## Test
+
+Current Test.py file has a minor bug due to visualization experiments. To perform evaluation of the model, you can run the train.py file with the flag --test as True. Example:
+
 
 
 ## Reference
