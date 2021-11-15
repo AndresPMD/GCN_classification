@@ -26,7 +26,7 @@ Con-Text dataset can be downloaded from:
 https://staff.fnwi.uva.nl/s.karaoglu/datasetWeb/Dataset.html
 
 Drink-Bottle dataset:
-https://drive.google.com/open?id=1ss9Pxr7rsdCpYX7uKjd-_1R4qCpUYTWT
+https://drive.google.com/file/d/10BZN5_BGg21olZA857SMvF0TPgukmVI4/view?usp=sharing
 
 ## Trained Model Weights
 
