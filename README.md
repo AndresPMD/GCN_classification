@@ -43,8 +43,8 @@ https://drive.google.com/file/d/1SDR9NSlOvNJZsCgOaxYFoKkLALJiPKWs/view?usp=shari
 
 Please download the following files and place them in the following dir structure: 
 
-$PATH_TO_DATASETS$/Context/
-$PATH_TO_DATASETS$/Drink_Bottle/
+    $PATH_TO_DATASETS$/Context/
+    $PATH_TO_DATASETS$/Drink_Bottle/
 
 Refer to the path after the link to correctly place the file.
 
